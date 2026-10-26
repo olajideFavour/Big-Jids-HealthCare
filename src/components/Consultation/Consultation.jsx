@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from "react";
-import ChatList from "./ChatList";
+import ChatList from "./Chatlist";
 import ChatBox from "./ChatBox";
 import DoctorCard from "./DoctorCard";
 import "./Consultation.css";
